@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Amulet of longevity",
+    "price": 1000,
+    "type": "mage",
+    "skill_1": "skill 1",
+    "skill_2": "skill 2",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/amuletoflongevity-90x90.png"
+  },
+  {
+    "id": 2,
+    "name": "Ancestral glory",
+    "price": 1000,
+    "type": "mage",
+    "skill_1": "skill 1",
+    "skill_2": "skill 2",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/ancestralglory-90x90.png"
+  },
+  {
+    "id": 3,
+    "name": "Ancient scriptures",
+    "price": 1000,
+    "type": "mage",
+    "skill_1": "skill 1",
+    "skill_2": "skill 2",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/ancientscriptures-90x90.png"
+  },
+  {
+    "id": 4,
+    "name": "Apocalypse",
+    "price": 1000,
+    "type": "mage",
+    "skill_1": "skill 1",
+    "skill_2": "skill_2",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/apocalypse-90x90.png"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "name": "Airi",
+    "intro": "The Kunichi",
+    "role": "Mobility",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/10/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301300_dithered.png"
+  },
+  {
+    "id": 2,
+    "name": "Aleister",
+    "intro": "The Lord of Mischief",
+    "role": "Control",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/aleister-portrait.png"
+  },
+  {
+    "id": 3,
+    "name": "Alice",
+    "intro": "The Adorable Mystic",
+    "role": "Control",
+    "specialty": "Support",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Alice2.png"
+  },
+  {
+    "id": 4,
+    "name": "Arduin",
+    "intro": "The Spirit",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/12/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301260_dithered.png"
+  },
+  {
+    "id": 5,
+    "name": "Arthur",
+    "intro": "The Chosen",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/09/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301660_dithered.png"
+  },
+  {
+    "id": 6,
+    "name": "Astrid",
+    "intro": "The Indomitable",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/11/atrid.png"
+  },
+  {
+    "id": 7,
+    "name": "Azzenka",
+    "intro": "Sand Wraith",
+    "role": "Control",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/AzzenKa-2.png"
+  },
+  {
+    "id": 8,
+    "name": "Batman",
+    "intro": "The Dark Knight",
+    "role": "Mobility",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301530_dithered.png"
+  },
+  {
+    "id": 9,
+    "name": "Butterfly",
+    "intro": "Death's Whisper",
+    "role": "Mobility",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/butterfly-portrait.png"
+  },
+  {
+    "id": 10,
+    "name": "Chaugnar",
+    "intro": "The Herald of the Void",
+    "role": "Buffs",
+    "specialty": "Support",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Chaugnar.png"
+  },
+  {
+    "id": 11,
+    "name": "Cresht",
+    "intro": "The Mermidon",
+    "role": "Mobility",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/cresht-2.png"
+  },
+  {
+    "id": 12,
+    "name": "Diaochan",
+    "intro": "The Crystal Lotus",
+    "role": "Control",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Diaochan-2.png"
+  },
+  {
+    "id": 13,
+    "name": "Fennik",
+    "intro": "Vulpis Ignis",
+    "role": "Mobility",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Fennik-2.png"
+  },
+  {
+    "id": 14,
+    "name": "Gildur",
+    "intro": "The Gilded",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/gilded.png"
+  },
+  {
+    "id": 15,
+    "name": "Grakk",
+    "intro": "The Glutton",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Grakk1.png"
+  },
+  {
+    "id": 16,
+    "name": "Ignis",
+    "intro": "The Anointed one",
+    "role": "Harass",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/08/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301240_dithered.png"
+  },
+  {
+    "id": 17,
+    "name": "Ilumia",
+    "intro": "The High Goddess",
+    "role": "Control",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Ilumia.png"
+  },
+  {
+    "id": 18,
+    "name": "Jinnar",
+    "intro": "The Incorruptible",
+    "role": "Harass",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Jinnar-2.png"
+  },
+  {
+    "id": 19,
+    "name": "Kahlii",
+    "intro": "Spectral Rule",
+    "role": "Harass",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/kahlii-1.png"
+  },
+  {
+    "id": 20,
+    "name": "Kil Groth",
+    "intro": "The Terror",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/10/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301390_dithered.png"
+  },
+  {
+    "id": 21,
+    "name": "Kriknak",
+    "intro": "The Scarabim",
+    "role": "Mobility",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/kriknik.png"
+  },
+  {
+    "id": 22,
+    "name": "Krixi",
+    "intro": "The Nymphora",
+    "role": "Harass",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/krixi-2.png"
+  },
+  {
+    "id": 23,
+    "name": "Lauriel",
+    "intro": "The Archangel",
+    "role": "Mobility",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/09/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301410_dithered.png"
+  },
+  {
+    "id": 24,
+    "name": "Lindis",
+    "intro": "The Sentinel",
+    "role": "Initiator",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2018/01/lindis-portrait.png"
+  },
+  {
+    "id": 25,
+    "name": "Lu Bu",
+    "intro": "The Great Warlord",
+    "role": "Life Steal",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/lu-bu-2.png"
+  },
+
+  {
+    "id": 26,
+    "name": "Lumburr",
+    "intro": "Earth Element",
+    "role": "Mobility",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/lumburr-2.png"
+  },
+  {
+    "id": 27,
+    "name": "Maloch",
+    "intro": "The Ravenor",
+    "role": "Finisher",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/maloch.png"
+  },
+  {
+    "id": 28,
+    "name": "Mganka",
+    "intro": "The Unspeakable",
+    "role": "Harass",
+    "specialty": "Support",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/mgangap.png"
+  },
+  {
+    "id": 29,
+    "name": "Mina",
+    "intro": "The Reaper Queen",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/mina.png"
+  },
+  {
+    "id": 30,
+    "name": "Moren",
+    "intro": "The Technowiz",
+    "role": "Control",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/11/moren.png"
+  },
+  {
+    "id": 31,
+    "name": "Murad",
+    "intro": "The Wanderer",
+    "role": "Mobility",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/08/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301310_dithered.png"
+  },
+  {
+    "id": 32,
+    "name": "Nakroth",
+    "intro": "The Executioner's Blade",
+    "role": "Mobility",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Nakroth-2.png"
+  },
+  {
+    "id": 33,
+    "name": "Natalya",
+    "intro": "The Nether Queen",
+    "role": "Harass",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301420_dithered.png"
+  },
+  {
+    "id": 34,
+    "name": "Omega",
+    "intro": "The Sentient Mech",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Omega.png"
+  },
+  {
+    "id": 35,
+    "name": "Omen",
+    "intro": "The Insatiable",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2018/03/omen-portrait.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Ormarr",
+    "intro": "The Berzerker",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/omarr.png"
+  },
+  {
+    "id": 37,
+    "name": "Peura",
+    "intro": "Faerie Guardian",
+    "role": "Buffs",
+    "specialty": "Support",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Peura.png"
+  },
+  {
+    "id": 38,
+    "name": "Preyta",
+    "intro": "The Illest",
+    "role": "Harass",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/08/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301480_dithered.png"
+  },
+  {
+    "id": 39,
+    "name": "Raz",
+    "intro": "Fist King",
+    "role": "Harass",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/07/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301570_dithered.png"
+  },
+  {
+    "id": 40,
+    "name": "Ryoma",
+    "intro": "The Ronin",
+    "role": "Buffs",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/12/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301630_dithered.png"
+  },
+  {
+    "id": 41,
+    "name": "Skud",
+    "intro": "The Smasher",
+    "role": "Control",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/07/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301340_dithered.png"
+  },
+  {
+    "id": 42,
+    "name": "Slimz",
+    "intro": "The Trustworthy",
+    "role": "Initiator",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Slinz-2.png"
+  },
+  {
+    "id": 43,
+    "name": "Superman",
+    "intro": "The Man of Steel",
+    "role": "Mobility",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/09/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301400_dithered.png"
+  },
+  {
+    "id": 44,
+    "name": "Taraa",
+    "intro": "Hammerstorm",
+    "role": "Mobility",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Taara.png"
+  },
+  {
+    "id": 45,
+    "name": "TeeMee",
+    "intro": "The Stalwart Twins",
+    "role": "Buffs",
+    "specialty": "Support",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2018/02/TeeMee.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Tel'Annas",
+    "intro": "The Ageless",
+    "role": "Finisher",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/09/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_305010_dithered.png"
+  },
+  {
+    "id": 47,
+    "name": "Thane",
+    "intro": "The Protector",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/thane.jpg"
+  },
+  {
+    "id": 48,
+    "name": "The Joker",
+    "intro": "The Clown Prince of Crime",
+    "role": "Harass",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/12/the-joker.png"
+  },
+  {
+    "id": 49,
+    "name": "Toro",
+    "intro": "The Bull King",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Toro-2.png"
+  },
+  {
+    "id": 50,
+    "name": "Tulen",
+    "intro": "The Pure",
+    "role": "Finisher",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/12/tulen-portrait.png"
+  },
+  {
+    "id": 51,
+    "name": "Valhein",
+    "intro": "The Demon Hunter",
+    "role": "Harass",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Valhein.png"
+  },
+  {
+    "id": 52,
+    "name": "Veera",
+    "intro": "Harvester of Souls",
+    "role": "Initiator",
+    "specialty": "Mage",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/veera-2.png"
+  },
+  {
+    "id": 53,
+    "name": "Violet",
+    "intro": "The Pistol Assassin",
+    "role": "Mobility",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Violet-2.png"
+  },
+  {
+    "id": 54,
+    "name": "Wonder Woman",
+    "intro": "Amazon of Themyscira",
+    "role": "Control",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/12/wonder-woman-1.png"
+  },
+  {
+    "id": 55,
+    "name": "Wukong",
+    "intro": "The Monkey King",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Wukong.png"
+  },
+  {
+    "id": 56,
+    "name": "Xeniel",
+    "intro": "The Immaculate",
+    "role": "Control",
+    "specialty": "Tank",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2018/01/xeniel-portrait.png"
+  },
+  {
+    "id": 57,
+    "name": "Yorn",
+    "intro": "The Hotshot",
+    "role": "Harass",
+    "specialty": "Marksman",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Yorn-2.png"
+  },
+  {
+    "id": 58,
+    "name": "Zanis",
+    "intro": "The Dragoon",
+    "role": "Finisher",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/zanis.png"
+  },
+  {
+    "id": 59,
+    "name": "Zephys",
+    "intro": "The Messenger of Elysium",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Zephys2.png"
+  },
+  {
+    "id": 60,
+    "name": "Zill",
+    "intro": "The Tempest",
+    "role": "Mobility",
+    "specialty": "Assassin",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/09/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301460_dithered.png"
+  },
+  {
+    "id": 61,
+    "name": "Zuka",
+    "intro": "The Pandharma Master",
+    "role": "Mobility",
+    "specialty": "Warrior",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/08/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_305030_dithered.png"
+  }
+]

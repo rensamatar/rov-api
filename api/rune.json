@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "absorption",
+    "price": 10,
+    "level": 1,
+    "description": "Magic Life Steal: 0.4%",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/absorption.png"
+  },
+  {
+    "id": 2,
+    "name": "Alacrity 2",
+    "price": 200,
+    "level": 2,
+    "description": "Ability Power: 13.5\nMax HP: 0.7%",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/alacrity-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Ambush 2",
+    "price": 200,
+    "level": 2,
+    "description": "Critical Chance: 1%",
+    "image":
+      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Ambush-2.png"
+  }
+]
