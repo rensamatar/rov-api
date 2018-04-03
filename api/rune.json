@@ -1,29 +1,35 @@
 [
+  // Level 1
   {
-    "id": 1,
-    "name": "absorption",
+    "name": "Passion",
     "price": 10,
     "level": 1,
-    "description": "Magic Life Steal: 0.4%",
+    "attack": true,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "Phyical attack +0.9",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/absorption.png"
+      "images/arcana/passion.png"
   },
   {
-    "id": 2,
-    "name": "Alacrity 2",
-    "price": 200,
-    "level": 2,
-    "description": "Ability Power: 13.5\nMax HP: 0.7%",
+    "name": "Shock",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": true,
+    "piercing": false,
+    "description": "Critical rate +0.5",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/alacrity-2.png"
+      "images/arcana/shock.png"
   },
-  {
-    "id": 3,
-    "name": "Ambush 2",
-    "price": 200,
-    "level": 2,
-    "description": "Critical Chance: 1%",
-    "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Ambush-2.png"
-  }
 ]

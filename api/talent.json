@@ -7,7 +7,7 @@
     "effects":
       "Stuns nearby enemies for 0.5 seconds, then reduces their movement speed for 1 second.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Daze-150x150.jpg"
+      "../images/talent/daze.png"
   },
   {
     "id": 2,
@@ -16,7 +16,7 @@
     "cooldown": "60s",
     "effects": "Silences a structure for 5 seconds.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Disrupt-150x150.jpg"
+      "../images/talent/disrupt.png"
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
     "cooldown": "120s",
     "effects": "Immobilizes your hero to become invulnerable for 1.5 seconds.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Endure-150x150.jpg"
+      "../images/talent/endure.png"
   },
   {
     "id": 4,
@@ -35,7 +35,7 @@
     "effects":
       "Instantly attacks a nearby enemy hero and deals damage equal to 16% of the HP the enemy hero has lost as true damage.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Execute-150x150.jpg"
+      "../images/talent/execute.png"
   },
   {
     "id": 5,
@@ -44,7 +44,7 @@
     "cooldown": "120s",
     "effects": "Teleports your hero over a short distance.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Flicker-150x150.jpg"
+      "../images/talent/flicker.png"
   },
   {
     "id": 6,
@@ -54,7 +54,7 @@
     "effects":
       "You and nearby teammates instantly recover 15% HP and gain 15% movement speed for 2 seconds.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Heal-150x150.jpg"
+      "../images/talent/heal.png"
   },
   {
     "id": 7,
@@ -64,7 +64,7 @@
     "effects":
       "Deals 800 true damage to nearby minions and monsters and stuns them for 1 second.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Punish-150x150.jpg"
+      "../images/talent/punish.png"
   },
   {
     "id": 8,
@@ -74,7 +74,7 @@
     "effects":
       "Removes all debuffs and control effects on yourself and gains immunity to them for 1.5 seconds.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Purify-150x150.jpg"
+      "../images/talent/purify.png"
   },
   {
     "id": 9,
@@ -84,7 +84,7 @@
     "effects":
       "Increases attack speed by 60% and attack damage by 10% for 5 seconds.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/Roar-150x150.jpg"
+      "../images/talent/roar.png"
   },
   {
     "id": 10,
@@ -93,6 +93,6 @@
     "cooldown": "100s",
     "effects": "Increase speed by 30% for 10 seconds.",
     "image":
-      "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/06/sprint-150x150.jpg"
+      "../images/talent/sprint.png"
   }
 ]

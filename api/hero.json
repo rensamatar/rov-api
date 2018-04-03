@@ -4,7 +4,29 @@
     "name": "Airi",
     "intro": "The Kunichi",
     "role": "Mobility",
-    "specialty": "Assassin",
+    "specialty": "Warrior",
+    "skill": {
+      "passive": {
+        "name": "Cut",
+        "desc": "Lorem",
+        "icon": "images/hero/warrior/airi/o.png"
+      },
+      "skill_1": {
+        "name": "Spin",
+        "desc": "Lorem",
+        "icon": "images/hero/warrior/airi/1.png"
+      },
+      "skill_2": {
+        "name": "Shadow",
+        "desc": "Lorem",
+        "icon": "images/hero/warrior/airi/2.png"
+      },
+      "skill_3": {
+        "name": "Dragon Spirit",
+        "desc": "Lorem",
+        "icon": "images/hero/warrior/airi/3.png"
+      }
+    },
     "image":
       "https://mobilegamerhub.com/arena-of-valor/wp-content/uploads/sites/9/2017/10/Art_Resources_UI_Dynamic_BustHero_BustHero_dithered_301300_dithered.png"
   },
