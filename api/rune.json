@@ -31,4 +31,20 @@
     "image":
       "images/arcana/shock.png"
   },
+  {
+    "name": "Curse",
+    "price": 10,
+    "level": 1,
+    "attack": true,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": true,
+    "piercing": false,
+    "description": "Magic ATK +1.5",
+    "image":
+      "images/arcana/curse.png"
+  }
 ]
