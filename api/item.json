@@ -1,7 +1,50 @@
 [
 	{
+		"name": "Boot of Speed",
+		"price": 250,
+		"type": "Movement",
+		"image": "images/item/movement/1411.png",
+		"description": "สกิลติดตัว: ความเร็วเคลื่อนที่ +30"
+	},
+	{
+		"name": "Sonic Boots",
+		"price": 700,
+		"type": "Movement",
+		"image": "images/item/movement/1421.png",
+		"description": "+110 เกราะ\nสกิลติดตัว: ความเร็วเคลื่อนที่ +60\nสกิลติดตัว: ลดความเสียหายที่ได้รับจากการโจมตีปกติ 15%"
+	},
+	{
+		"name": "Gilded Greaves",
+		"price": 690,
+		"type": "Movement",
+		"image": "images/item/movement/1422.png",
+		"description": "+110 ต้านทานเวท\nสกิลติดตัว: ความเร็วเคลื่อนที่ +60\nสกิลติดตัว: ป้องกันสถานะ 35%"
+	},
+	{
+		"name": "Flashy Boots",
+		"price": 760,
+		"type": "Movement",
+		"image": "images/item/movement/1423.png",
+		"description": "+10% ลดคูลดาวน์\nสกิลติดตัว: ความเร็วเคลื่อนที่ +60"
+	},
+	{
+		"name": "Enchanted Kicks",
+		"price": 790,
+		"type": "Movement",
+		"image": "images/item/movement/1424.png",
+		"description": "สกิลติดตัว: ความเร็วเคลื่อนที่ +60\nสกิลติดตัว: เจาะเกราะเวท +75"
+	},
+	{
+		"name": "War Boots",
+		"price": 760,
+		"type": "Movement",
+		"image": "images/item/movement/1425.png",
+		"description": "+25% ความเร็วโจมตี\nสกิลติดตัว: ความเร็วเคลื่อนที่ +60"
+	},
+	{
 		"name": "Hermes'Select",
 		"price": 630,
+		"type": "Movement",
 		"image": "images/item/movement/1426.png",
 		"description": "สกิลติดตัว: ความเร็วเคลื่อนที่ +60\nสกิลติดตัว - Swift: เมื่อออกจากการต่อสู้จะได้รับความเร็วเคลื่อนที่เพิ่มชึ้น 60 หน่วย"
 	}
