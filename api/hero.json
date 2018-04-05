@@ -14,7 +14,7 @@
       "passive": {
         "name": "Fighting Spirit",
         "desc": "ได้รับพลังโจมตีเพิ่ม 2-5 หน่วย ต่อพลังชีวิตสูงสุดที่หายไป 1% (เพิ่มตามเลเวลฮีโร่)",
-        "icon": "images/hero/tank/taraa/o.png"
+        "icon": "images/hero/tank/taraa/0.png"
       },
       "skill_1": {
         "name": "Final Word",
@@ -38,7 +38,7 @@
     "name": "Thane",
     "intro": "The Protector",
     "role": "Tank",
-    "specialty": "XXX",
+    "specialty": "ควบคุม",
     "status": {
     	"energy": 2.7,
     	"attack": 2.7,
@@ -49,7 +49,7 @@
       "passive": {
         "name": "Royal Power",
         "desc": "เมื่อพลังชีวิตของ Thane ต่ำกว่า 30% เขาจะฟื้นฟู 24% ของพลังชีวิตสูงสุดใน 6 วินาที คูลดาวน์ 75 วินาที",
-        "icon": "images/hero/tank/thane/o.png"
+        "icon": "images/hero/tank/thane/0.png"
       },
       "skill_1": {
         "name": "Forward Charge",
@@ -68,5 +68,40 @@
       }
     },
     "image": "images/hero/tank/thane/thane.png"
+  },
+  {
+    "name": "Mina",
+    "intro": "The Reaper Queen",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 3.6,
+      "attack": 1.8,
+      "effect": 1.8,
+      "difficulty": 1.4
+    },
+    "skill": {
+      "passive": {
+        "name": "Sweet Revenge",
+        "desc": "โจมตีตอบโต้เมื่อได้รับความเสียหาย สร้างความเสียหายกายภาพ (50.0) (+1.0) แก่ศัตรูรอบตัวเธอ",
+        "icon": "images/hero/tank/mina/0.png"
+      },
+      "skill_1": {
+        "name": "Whirling Scythe",
+        "desc": "Mina แกว่งเคียวของเธอไปรอบตัวทำให้ศัตรูในระยะได้รับความเสียหายกายภาพ 125/150/175/200/225/250 (+1.20)(+0.02)(พลังชีวิตศุงสุด 2%)",
+        "icon": "images/hero/tank/mina/1.png"
+      },
+      "skill_2": {
+        "name": "Death Scythe",
+        "desc": "Mina ใช้เคียวของเธอดึงศัตรูด้านหน้าเข้ามา สร้างความเสียหายกายภาพ 150/185/220/255/290/235 (+0.70) และทำให้ความเร็วศัตรูลดลง 50/50/50/50/50/50% เป็นเวลา 2 วินาที",
+        "icon": "images/hero/tank/mina/2.png"
+      },
+      "skill_3": {
+        "name": "Dark Dominion",
+        "desc": "Mina ยั่วยุศัตรูที่อยู่รอบๆ บังคับศัตรูให้โจมตีเธอเป็นเวลา 2 วินาที โดยความเสียหายที่ได้รับจากศัตรูที่ถูกยั่วยุจะลดลง 50%",
+        "icon": "images/hero/tank/mina/3.png"
+      }
+    },
+    "image": "images/hero/tank/mina/mina.png"
   }
 ]
