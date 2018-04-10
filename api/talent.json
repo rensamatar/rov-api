@@ -2,96 +2,96 @@
   {
     "id": 1,
     "name": "Daze",
-    "level": "Level 13 Required",
-    "cooldown": "90s",
+    "level": "Lปลดล็อคเลเวล13",
+    "cooldown": 90,
     "effects":
-      "Stuns nearby enemies for 0.5 seconds, then reduces their movement speed for 1 second.",
+      "สตั๊นศัตรูรอบๆ 0.5 วินาที พร้อมกับลดความเร็วเคลื่อนที่ลง 1 วินาที",
     "image":
       "images/talent/daze.png"
   },
   {
     "id": 2,
     "name": "Disrupt",
-    "level": "Level 11 Required",
-    "cooldown": "60s",
-    "effects": "Silences a structure for 5 seconds.",
+    "level": "Lปลดล็อคเลเวล11",
+    "cooldown": 60,
+    "effects": "ยับยั้งการทำงานของป้อม 5 วินาที",
     "image":
       "images/talent/disrupt.png"
   },
   {
     "id": 3,
-    "name": "Endure",
-    "level": "Level 17 Required",
-    "cooldown": "120s",
-    "effects": "Immobilizes your hero to become invulnerable for 1.5 seconds.",
+    "name": "Endurance",
+    "level": "Lปลดล็อคเลเวล17",
+    "cooldown": 120,
+    "effects": "ฮีโร่ของคุณจะเป็นอมตะ แต่จะขยับไม่ได้เป็นเวลา 1.5 วินาที",
     "image":
       "images/talent/endure.png"
   },
   {
     "id": 4,
     "name": "Execute",
-    "level": "Level 3 Required",
-    "cooldown": "90s",
+    "level": "ปลดล็อคเลเวล 3",
+    "cooldown": 90,
     "effects":
-      "Instantly attacks a nearby enemy hero and deals damage equal to 16% of the HP the enemy hero has lost as true damage.",
+      "สร้างความเสียหายจริงแก่ฮีโร่ฝ่ายตรงข้ามรอบบริเวณเป็นจำนวน 16% จากพลังชีวิตของฮีโร่ฝ่ายตรงข้ามที่หายไป",
     "image":
       "images/talent/execute.png"
   },
   {
     "id": 5,
     "name": "Flicker",
-    "level": "Level 19 Required",
-    "cooldown": "120s",
-    "effects": "Teleports your hero over a short distance.",
+    "level": "Lปลดล็อคเลเวล 19",
+    "cooldown": 120,
+    "effects": "เทเลพอร์ตไปยังเป้าหมาย",
     "image":
       "images/talent/flicker.png"
   },
   {
     "id": 6,
     "name": "Heal",
-    "level": "Level 9 Required",
-    "cooldown": "120s",
+    "level": "ปลดล็อคเลเวล 9",
+    "cooldown": 120,
     "effects":
-      "You and nearby teammates instantly recover 15% HP and gain 15% movement speed for 2 seconds.",
+      "ฟื้นฟู 15% จากพลังชีวิตสูงสุดของเพื่อนร่วมทีมในระยะ พร้อมทั้งเพิ่มความเร็วเคลื่อนที่ของพวกเขา 15% เป็นเวลา 2 วินาที",
     "image":
       "images/talent/heal.png"
   },
   {
     "id": 7,
     "name": "Punish",
-    "level": "Level 5 Required",
-    "cooldown": "30s",
+    "level": "ปลดล็อคเลเวล 5",
+    "cooldown": 30,
     "effects":
-      "Deals 800 true damage to nearby minions and monsters and stuns them for 1 second.",
+      "สร้าง 800 ความเสียหายจริงแก่ครีปหรือมอนสเตอร์ป่าในบริเวณ จากนั้นส่งผลให้ติดสถานะสตั๊นเป็นเวลา 1 วินาที",
     "image":
       "images/talent/punish.png"
   },
   {
     "id": 8,
     "name": "Purify",
-    "level": "Level 15 Required",
-    "cooldown": "120s",
+    "level": "Lปลดล็อคเลเวล 15",
+    "cooldown": 120,
     "effects":
-      "Removes all debuffs and control effects on yourself and gains immunity to them for 1.5 seconds.",
+      "ล้างสถานะผิดปกติที่ส่งผลกับฮีโร่ของคุณทันที และต้านทานสถานะเหล่านั้นเป็นเวลา 1.5 วินาที",
     "image":
       "images/talent/purify.png"
   },
   {
     "id": 9,
     "name": "Roar",
-    "level": "Level 7 Required",
-    "cooldown": "60s",
+    "level": "ปลดล็อคเลเวล 7",
+    "cooldown": 60,
     "effects":
-      "Increases attack speed by 60% and attack damage by 10% for 5 seconds.",
+      "ฮีโร่จะได้รับความเร็วโจมตีเพิ่มขึ้น 60% และพลังโจมตีเพิ่มขึ้น 10% เป็นเวลา 5 วินาที",
     "image":
       "images/talent/roar.png"
   },
   {
     "id": 10,
     "name": "Sprint",
-    "level": "Level 1 Required",
-    "cooldown": "100s",
-    "effects": "Increase speed by 30% for 10 seconds.",
+    "level": "ปลดล็อคเลเวล 1",
+    "cooldown": 100,
+    "effects": "ฮีโร่จะได้รับความเร็วเคลื่อนที่เพิ่มขึ้น 30% เป็นเวลา 10 วินาที",
     "image":
       "images/talent/sprint.png"
   }
