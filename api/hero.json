@@ -523,5 +523,495 @@
       }
     },
     "image": "images/hero/support/teemee/teemee.png"
+  },
+  {
+    "name": "Aleister",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 1.4,
+      "effect": 4.5,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/aleister/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/aleister/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/aleister/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/aleister/3.png"
+      }
+    },
+    "image": "images/hero/mage/aleister/aleister.png"
+  },
+  {
+    "name": "Azzen'Ka",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 2.7,
+      "effect": 3.2,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/azzenka/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/azzenka/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/azzenka/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/azzenka/3.png"
+      }
+    },
+    "image": "images/hero/mage/azzenka/azzenka.png"
+  },
+  {
+    "name": "Diao Chan",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 1.4,
+      "effect": 4.5,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/diaochan/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/diaochan/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/diaochan/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/diaochan/3.png"
+      }
+    },
+    "image": "images/hero/mage/diaochan/diaochan.png"
+  },
+  {
+    "name": "Ignis",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 2.3,
+      "effect": 4.1,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ignis/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ignis/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ignis/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ignis/3.png"
+      }
+    },
+    "image": "images/hero/mage/ignis/ignis.png"
+  },
+  {
+    "name": "Ilumia",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 1.4,
+      "effect": 4.5,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ilumia/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ilumia/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ilumia/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/ilumia/3.png"
+      }
+    },
+    "image": "images/hero/mage/ilumia/ilumia.png"
+  },
+  {
+    "name": "Jinna",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 1.8,
+      "effect": 4.1,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/jinna/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/jinna/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/jinna/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/jinna/3.png"
+      }
+    },
+    "image": "images/hero/mage/jinna/jinna.png"
+  },
+  {
+    "name": "Kahlii",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 2.7,
+      "effect": 3.6,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/kahlii/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/kahlii/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/kahlii/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/kahlii/3.png"
+      }
+    },
+    "image": "images/hero/mage/kahlii/kahlii.png"
+  },
+  {
+    "name": "Krixi",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 2.3,
+      "effect": 3.6,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/krixi/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/krixi/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/krixi/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/krixi/3.png"
+      }
+    },
+    "image": "images/hero/mage/krixi/krixi.png"
+  },
+  {
+    "name": "Lauriel",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 0.9,
+      "effect": 4.5,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/lauriel/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/lauriel/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/lauriel/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/lauriel/3.png"
+      }
+    },
+    "image": "images/hero/mage/lauriel/lauriel.png"
+  },
+  {
+    "name": "Mganga",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.8,
+      "attack": 3.2,
+      "effect": 1.4,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/mganga/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/mganga/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/mganga/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/mganga/3.png"
+      }
+    },
+    "image": "images/hero/mage/mganga/mganga.png"
+  },
+  {
+    "name": "Natalya",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 2.3,
+      "effect": 3.6,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/natalya/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/natalya/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/natalya/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/natalya/3.png"
+      }
+    },
+    "image": "images/hero/mage/natalya/natalya.png"
+  },
+  {
+    "name": "Preyta",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 1.8,
+      "effect": 5.0,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/preyta/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/preyta/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/preyta/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/preyta/3.png"
+      }
+    },
+    "image": "images/hero/mage/preyta/preyta.png"
+  },
+  {
+    "name": "Veera",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 1.8,
+      "effect": 4.1,
+      "difficulty": 1.4
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/veera/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/veera/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/veera/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/veera/3.png"
+      }
+    },
+    "image": "images/hero/mage/veera/veera.png"
+  },
+  {
+    "name": "Zill",
+    "intro": "xx",
+    "role": "Mage",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 1.8,
+      "effect": 4.5,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/zill/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/zill/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/zill/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/mage/zill/3.png"
+      }
+    },
+    "image": "images/hero/mage/zill/zill.png"
   }
 ]
