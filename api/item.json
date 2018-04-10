@@ -48,7 +48,6 @@
 		"image": "images/item/movement/1426.png",
 		"description": "สกิลติดตัว: ความเร็วเคลื่อนที่ +60\nสกิลติดตัว - Swift: เมื่อออกจากการต่อสู้จะได้รับความเร็วเคลื่อนที่เพิ่มชึ้น 60 หน่วย"
 	},
-	// Jungling
 	{
 		"name": "Hunter’s Crossbow",
 		"price": 250,
