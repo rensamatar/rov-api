@@ -1013,5 +1013,1090 @@
       }
     },
     "image": "images/hero/mage/zill/zill.png"
+  },
+  {
+    "name": "Batman",
+    "intro": "xx",
+    "role": "Assassin",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 5.0,
+      "effect": 1.8,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/batman/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/batman/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/batman/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/batman/3.png"
+      }
+    },
+    "image": "images/hero/assassin/batman/batman.png"
+  },
+  {
+    "name": "Butterfly",
+    "intro": "xx",
+    "role": "Assassin",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 5.0,
+      "effect": 1.8,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/butterfly/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/butterfly/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/butterfly/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/butterfly/3.png"
+      }
+    },
+    "image": "images/hero/assassin/butterfly/butterfly.png"
+  },
+  {
+    "name": "Kriknak",
+    "intro": "xx",
+    "role": "Assassin",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 3.2,
+      "effect": 2.7,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/kriknak/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/kriknak/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/kriknak/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/kriknak/3.png"
+      }
+    },
+    "image": "images/hero/assassin/kriknak/kriknak.png"
+  },
+  {
+    "name": "Murad",
+    "intro": "xx",
+    "role": "Assassin",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 2.7,
+      "effect": 3.6,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/murad/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/murad/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/murad/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/murad/3.png"
+      }
+    },
+    "image": "images/hero/assassin/murad/murad.png"
+  },
+  {
+    "name": "Nakroth",
+    "intro": "xx",
+    "role": "Assassin",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 2.7,
+      "effect": 3.6,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/nakroth/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/nakroth/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/nakroth/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/nakroth/3.png"
+      }
+    },
+    "image": "images/hero/assassin/nakroth/nakroth.png"
+  },
+  {
+    "name": "Raz",
+    "intro": "xx",
+    "role": "Assassin",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 1.8,
+      "effect": 4.1,
+      "difficulty": 4.1
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/raz/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/raz/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/raz/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/assassin/raz/3.png"
+      }
+    },
+    "image": "images/hero/assassin/raz/raz.png"
+  },
+  {
+    "name": "Fennik",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 3.6,
+      "effect": 2.3,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/fennik/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/fennik/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/fennik/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/fennik/3.png"
+      }
+    },
+    "image": "images/hero/archer/fennik/fennik.png"
+  },
+  {
+    "name": "Lindis",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 3.2,
+      "effect": 1.4,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/lindis/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/lindis/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/lindis/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/lindis/3.png"
+      }
+    },
+    "image": "images/hero/archer/lindis/lindis.png"
+  },
+  {
+    "name": "Moren",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 3.2,
+      "effect": 1.4,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/moren/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/moren/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/moren/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/moren/3.png"
+      }
+    },
+    "image": "images/hero/archer/moren/moren.png"
+  },
+  {
+    "name": "Slimz",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 3.6,
+      "effect": 1.8,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/slimz/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/slimz/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/slimz/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/slimz/3.png"
+      }
+    },
+    "image": "images/hero/archer/slimz/slimz.png"
+  },
+  {
+    "name": "Tel'Annas",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 4.5,
+      "effect": 1.4,
+      "difficulty": 1.4
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/telannas/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/telannas/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/telannas/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/telannas/3.png"
+      }
+    },
+    "image": "images/hero/archer/telannas/telannas.png"
+  },
+  {
+    "name": "The Joker",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 3.6,
+      "effect": 2.3,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/thejoker/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/thejoker/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/thejoker/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/thejoker/3.png"
+      }
+    },
+    "image": "images/hero/archer/thejoker/thejoker.png"
+  },
+  {
+    "name": "Valhein",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 4.5,
+      "effect": 1.4,
+      "difficulty": 1.4
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/valhein/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/valhein/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/valhein/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/valhein/3.png"
+      }
+    },
+    "image": "images/hero/archer/valhein/valhein.png"
+  },
+  {
+    "name": "Violet",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 3.6,
+      "effect": 2.3,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/violet/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/violet/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/violet/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/violet/3.png"
+      }
+    },
+    "image": "images/hero/archer/violet/violet.png"
+  },
+  {
+    "name": "Yorn",
+    "intro": "xx",
+    "role": "Archer",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.5,
+      "attack": 4.5,
+      "effect": 1.4,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/yorn/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/yorn/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/yorn/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/archer/yorn/3.png"
+      }
+    },
+    "image": "images/hero/archer/yorn/yorn.png"
+  },
+  {
+    "name": "Airi",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 4.5,
+      "effect": 1.8,
+      "difficulty": 4.1
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/airi/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/airi/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/airi/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/airi/3.png"
+      }
+    },
+    "image": "images/hero/warrior/airi/airi.png"
+  },
+  {
+    "name": "Arduin",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.8,
+      "attack": 2.7,
+      "effect": 2.3,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arduin/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arduin/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arduin/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arduin/3.png"
+      }
+    },
+    "image": "images/hero/warrior/arduin/arduin.png"
+  },
+  {
+    "name": "Arthur",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.7,
+      "attack": 2.7,
+      "effect": 2.3,
+      "difficulty": 0.9
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arthur/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arthur/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arthur/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/arthur/3.png"
+      }
+    },
+    "image": "images/hero/warrior/arthur/arthur.png"
+  },
+  {
+    "name": "Astrid",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.4,
+      "attack": 2.7,
+      "effect": 3.6,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/astrid/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/astrid/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/astrid/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/astrid/3.png"
+      }
+    },
+    "image": "images/hero/warrior/astrid/astrid.png"
+  },
+  {
+    "name": "Kil'Groth",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.3,
+      "attack": 3.6,
+      "effect": 1.8,
+      "difficulty": 0.9
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/kilgroth/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/kilgroth/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/kilgroth/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/kilgroth/3.png"
+      }
+    },
+    "image": "images/hero/warrior/kilgroth/kilgroth.png"
+  },
+  {
+    "name": "Lu Bu",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.7,
+      "attack": 2.7,
+      "effect": 2.3,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/lubu/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/lubu/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/lubu/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/lubu/3.png"
+      }
+    },
+    "image": "images/hero/warrior/lubu/lubu.png"
+  },
+  {
+    "name": "Maloch",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.3,
+      "attack": 3.6,
+      "effect": 1.4,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/maloch/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/maloch/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/maloch/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/maloch/3.png"
+      }
+    },
+    "image": "images/hero/warrior/maloch/maloch.png"
+  },
+  {
+    "name": "Ormarr",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.3,
+      "attack": 1.4,
+      "effect": 3.2,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ormarr/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ormarr/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ormarr/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ormarr/3.png"
+      }
+    },
+    "image": "images/hero/warrior/ormarr/ormarr.png"
+  },
+  {
+    "name": "Ryoma",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.7,
+      "attack": 2.7,
+      "effect": 2.3,
+      "difficulty": 0.9
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ryoma/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ryoma/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ryoma/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/ryoma/3.png"
+      }
+    },
+    "image": "images/hero/warrior/ryoma/ryoma.png"
+  },
+  {
+    "name": "Skud",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 4.1,
+      "attack": 2.7,
+      "effect": 0.9,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/skud/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/skud/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/skud/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/skud/3.png"
+      }
+    },
+    "image": "images/hero/warrior/skud/skud.png"
+  },
+  {
+    "name": "Superman",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 3.6,
+      "attack": 2.3,
+      "effect": 2.7,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/superman/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/superman/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/superman/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/superman/3.png"
+      }
+    },
+    "image": "images/hero/warrior/superman/superman.png"
+  },
+  {
+    "name": "Wonder Woman",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 4.1,
+      "attack": 1.4,
+      "effect": 3.2,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wonderwoman/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wonderwoman/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wonderwoman/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wonderwoman/3.png"
+      }
+    },
+    "image": "images/hero/warrior/wonderwoman/wonderwoman.png"
+  },
+  {
+    "name": "Wukong",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.8,
+      "attack": 2.3,
+      "effect": 2.3,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wukong/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wukong/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wukong/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/wukong/3.png"
+      }
+    },
+    "image": "images/hero/warrior/wukong/wukong.png"
+  },
+  {
+    "name": "Zanis",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.3,
+      "attack": 3.6,
+      "effect": 1.4,
+      "difficulty": 1.4
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zanis/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zanis/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zanis/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zanis/3.png"
+      }
+    },
+    "image": "images/hero/warrior/zanis/zanis.png"
+  },
+  {
+    "name": "Zephys",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.3,
+      "attack": 2.3,
+      "effect": 2.7,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zephys/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zephys/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zephys/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zephys/3.png"
+      }
+    },
+    "image": "images/hero/warrior/zephys/zephys.png"
+  },
+  {
+    "name": "Zuka",
+    "intro": "xx",
+    "role": "Warrior",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 0.9,
+      "attack": 4.1,
+      "effect": 2.3,
+      "difficulty": 4.1
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zuka/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zuka/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zuka/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/warrior/zuka/3.png"
+      }
+    },
+    "image": "images/hero/warrior/zuka/zuka.png"
   }
 ]
