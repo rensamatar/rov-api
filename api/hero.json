@@ -103,5 +103,425 @@
       }
     },
     "image": "images/hero/tank/mina/mina.png"
+  },
+  {
+    "name": "Omega",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 4.1,
+      "attack": 1.4,
+      "effect": 2.3,
+      "difficulty": 1.4
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/omega/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/omega/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/omega/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/omega/3.png"
+      }
+    },
+    "image": "images/hero/tank/omega/omega.png"
+  },
+  {
+    "name": "Toro",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 5.0,
+      "attack": 1.4,
+      "effect": 1.8,
+      "difficulty": 1.4
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/toro/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/toro/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/toro/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/toro/3.png"
+      }
+    },
+    "image": "images/hero/tank/toro/toro.png"
+  },
+  {
+    "name": "Gildur",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 3.6,
+      "attack": 1.4,
+      "effect": 2.3,
+      "difficulty": 2.7
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/gildur/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/gildur/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/gildur/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/gildur/3.png"
+      }
+    },
+    "image": "images/hero/tank/gildur/gildur.png"
+  },
+  {
+    "name": "Grakk",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 4.1,
+      "attack": 1.4,
+      "effect": 3.2,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/grakk/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/grakk/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/grakk/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/grakk/3.png"
+      }
+    },
+    "image": "images/hero/tank/grakk/grakk.png"
+  },
+  {
+    "name": "Cresht",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 4.1,
+      "attack": 0.9,
+      "effect": 2.3,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/cresht/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/cresht/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/cresht/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/cresht/3.png"
+      }
+    },
+    "image": "images/hero/tank/cresht/cresht.png"
+  },
+  {
+    "name": "Xeniel",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.7,
+      "attack": 1.8,
+      "effect": 2.7,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/xeniel/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/xeniel/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/xeniel/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/xeniel/3.png"
+      }
+    },
+    "image": "images/hero/tank/xeniel/xeniel.png"
+  },
+  {
+    "name": "Max",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 3.6,
+      "attack": 2.7,
+      "effect": 2.7,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/max/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/max/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/max/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/max/3.png"
+      }
+    },
+    "image": "images/hero/tank/max/max.png"
+  },
+  {
+    "name": "Lumburr",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 4.1,
+      "attack": 0.9,
+      "effect": 2.3,
+      "difficulty": 3.2
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/lumburr/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/lumburr/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/lumburr/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/lumburr/3.png"
+      }
+    },
+    "image": "images/hero/tank/lumburr/lumburr.png"
+  },
+  {
+    "name": "Chaugnar",
+    "intro": "xx",
+    "role": "Tank",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 3.6,
+      "attack": 0.9,
+      "effect": 2.7,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/chaugnar/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/chaugnar/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/chaugnar/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/tank/chaugnar/3.png"
+      }
+    },
+    "image": "images/hero/tank/chaugnar/chaugnar.png"
+  },
+  {
+    "name": "Alice",
+    "intro": "xx",
+    "role": "Support",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 1.8,
+      "attack": 1.8,
+      "effect": 2.7,
+      "difficulty": 3.6
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/alice/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/alice/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/alice/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/alice/3.png"
+      }
+    },
+    "image": "images/hero/support/alice/alice.png"
+  },
+  {
+    "name": "Payna",
+    "intro": "xx",
+    "role": "Support",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.3,
+      "attack": 1.4,
+      "effect": 4.1,
+      "difficulty": 1.8
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/payna/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/payna/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/payna/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/payna/3.png"
+      }
+    },
+    "image": "images/hero/support/payna/payna.png"
+  },
+  {
+    "name": "TeeMee",
+    "intro": "xx",
+    "role": "Support",
+    "specialty": "ควบคุม",
+    "status": {
+      "energy": 2.7,
+      "attack": 1.4,
+      "effect": 4.1,
+      "difficulty": 2.3
+    },
+    "skill": {
+      "passive": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/teemee/0.png"
+      },
+      "skill_1": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/teemee/1.png"
+      },
+      "skill_2": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/teemee/2.png"
+      },
+      "skill_3": {
+        "name": "xx",
+        "desc": "xx",
+        "icon": "images/hero/support/teemee/3.png"
+      }
+    },
+    "image": "images/hero/support/teemee/teemee.png"
   }
 ]
