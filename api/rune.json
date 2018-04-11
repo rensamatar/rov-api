@@ -12,7 +12,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "Phyical attack +0.9",
+    "description": "พลังโจมตี +0.9",
     "image":
       "images/arcana/passion.png"
   },
@@ -29,7 +29,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "Critical rate +0.5",
+    "description": "อัตราคริติคัล +0.5%",
     "image":
       "images/arcana/shock.png"
   },
@@ -46,8 +46,161 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "Magic ATK +1.5",
+    "description": "พลังเวท +1.5",
     "image":
       "images/arcana/curse.png"
+  },
+  {
+    "id": 4,
+    "name": "Gale",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": true,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "ความเร็วโจมตี +0.6%",
+    "image":
+      "images/arcana/gale.png"
+  },
+  {
+    "id": 5,
+    "name": "Life",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": true,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "พลังชีวิต +21",
+    "image":
+      "images/arcana/life.png"
+  },
+  {
+    "id": 6,
+    "name": "Rebirth",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": true,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "ฟื้นฟูพลังชีวิต/วิ +4.2",
+    "image":
+      "images/arcana/rebirth.png"
+  },
+  {
+    "id": 7,
+    "name": "Lifesteal",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": true,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "ดูดเลือด +0.4%",
+    "image":
+      "images/arcana/lifesteal.png"
+  },
+  {
+    "id": 8,
+    "name": "Absorption",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": true,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "เวทแวมไพร์ +0.4%",
+    "image":
+      "images/arcana/absorption.png"
+  },
+  {
+    "id": 9,
+    "name": "Guard",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": true,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "เกราะ +2.5",
+    "image":
+      "images/arcana/guard.png"
+  },
+  {
+    "id": 10,
+    "name": "Strength",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": true,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": false,
+    "description": "ต้านทานเวท +2.5",
+    "image":
+      "images/arcana/strength.png"
+  },
+  {
+    "id": 11,
+    "name": "Stab",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": true,
+    "description": "เจาะเกราะ +2.2",
+    "image":
+      "images/arcana/stab.png"
+  },
+  {
+    "id": 12,
+    "name": "Disruption",
+    "price": 10,
+    "level": 1,
+    "attack": false,
+    "hp": false,
+    "defense": false,
+    "skill": false,
+    "life_steal": false,
+    "atk_speed": false,
+    "critical_rate": false,
+    "piercing": true,
+    "description": "เจาะเกราะเวท +2.2",
+    "image":
+      "images/arcana/disruption.png"
   }
 ]
