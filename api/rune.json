@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Passion",
     "price": 10,
     "level": 1,
@@ -16,6 +17,7 @@
       "images/arcana/passion.png"
   },
   {
+    "id": 2,
     "name": "Shock",
     "price": 10,
     "level": 1,
@@ -32,6 +34,7 @@
       "images/arcana/shock.png"
   },
   {
+    "id": 3,
     "name": "Curse",
     "price": 10,
     "level": 1,

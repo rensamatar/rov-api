@@ -10,6 +10,13 @@
     	"effect": 2.3,
     	"difficulty": 0.9
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "Fighting Spirit",
@@ -44,6 +51,13 @@
     	"attack": 2.7,
     	"effect": 2.3,
     	"difficulty": 0.9
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -80,6 +94,13 @@
       "effect": 1.8,
       "difficulty": 1.4
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "Sweet Revenge",
@@ -114,6 +135,13 @@
       "attack": 1.4,
       "effect": 2.3,
       "difficulty": 1.4
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -150,6 +178,13 @@
       "effect": 1.8,
       "difficulty": 1.4
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -184,6 +219,13 @@
       "attack": 1.4,
       "effect": 2.3,
       "difficulty": 2.7
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -220,6 +262,13 @@
       "effect": 3.2,
       "difficulty": 3.6
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -254,6 +303,13 @@
       "attack": 0.9,
       "effect": 2.3,
       "difficulty": 3.2
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -290,6 +346,13 @@
       "effect": 2.7,
       "difficulty": 1.8
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -324,6 +387,13 @@
       "attack": 2.7,
       "effect": 2.7,
       "difficulty": 3.6
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -360,6 +430,13 @@
       "effect": 2.3,
       "difficulty": 3.2
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -394,6 +471,13 @@
       "attack": 0.9,
       "effect": 2.7,
       "difficulty": 1.8
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -430,6 +514,13 @@
       "effect": 2.7,
       "difficulty": 3.6
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -464,6 +555,13 @@
       "attack": 1.4,
       "effect": 4.1,
       "difficulty": 1.8
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -500,6 +598,13 @@
       "effect": 4.1,
       "difficulty": 2.3
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -534,6 +639,13 @@
       "attack": 1.4,
       "effect": 4.5,
       "difficulty": 3.6
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -570,6 +682,13 @@
       "effect": 3.2,
       "difficulty": 2.3
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -604,6 +723,13 @@
       "attack": 1.4,
       "effect": 4.5,
       "difficulty": 3.6
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -640,6 +766,13 @@
       "effect": 4.1,
       "difficulty": 3.2
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -674,6 +807,13 @@
       "attack": 1.4,
       "effect": 4.5,
       "difficulty": 3.6
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -710,6 +850,13 @@
       "effect": 4.1,
       "difficulty": 2.3
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -744,6 +891,13 @@
       "attack": 2.7,
       "effect": 3.6,
       "difficulty": 3.2
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -780,6 +934,13 @@
       "effect": 3.6,
       "difficulty": 1.8
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -814,6 +975,13 @@
       "attack": 0.9,
       "effect": 4.5,
       "difficulty": 3.6
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -850,6 +1018,13 @@
       "effect": 1.4,
       "difficulty": 1.8
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -884,6 +1059,13 @@
       "attack": 2.3,
       "effect": 3.6,
       "difficulty": 1.8
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -920,6 +1102,13 @@
       "effect": 5.0,
       "difficulty": 1.8
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -954,6 +1143,13 @@
       "attack": 1.8,
       "effect": 4.1,
       "difficulty": 1.4
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -990,6 +1186,13 @@
       "effect": 4.5,
       "difficulty": 3.6
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1024,6 +1227,13 @@
       "attack": 5.0,
       "effect": 1.8,
       "difficulty": 2.7
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1060,6 +1270,13 @@
       "effect": 1.8,
       "difficulty": 2.7
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1094,6 +1311,13 @@
       "attack": 3.2,
       "effect": 2.7,
       "difficulty": 2.3
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1130,6 +1354,13 @@
       "effect": 3.6,
       "difficulty": 2.7
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1164,6 +1395,13 @@
       "attack": 2.7,
       "effect": 3.6,
       "difficulty": 3.6
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1200,6 +1438,13 @@
       "effect": 4.1,
       "difficulty": 4.1
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1234,6 +1479,13 @@
       "attack": 3.6,
       "effect": 2.3,
       "difficulty": 3.2
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1270,6 +1522,13 @@
       "effect": 1.4,
       "difficulty": 2.7
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1304,6 +1563,13 @@
       "attack": 3.2,
       "effect": 1.4,
       "difficulty": 2.7
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1340,6 +1606,13 @@
       "effect": 1.8,
       "difficulty": 1.8
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1374,6 +1647,13 @@
       "attack": 4.5,
       "effect": 1.4,
       "difficulty": 1.4
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1410,6 +1690,13 @@
       "effect": 2.3,
       "difficulty": 3.2
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1444,6 +1731,13 @@
       "attack": 4.5,
       "effect": 1.4,
       "difficulty": 1.4
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1480,6 +1774,13 @@
       "effect": 2.3,
       "difficulty": 3.2
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1514,6 +1815,13 @@
       "attack": 4.5,
       "effect": 1.4,
       "difficulty": 3.2
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1550,6 +1858,13 @@
       "effect": 1.8,
       "difficulty": 4.1
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1584,6 +1899,13 @@
       "attack": 2.7,
       "effect": 2.3,
       "difficulty": 1.8
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1620,6 +1942,13 @@
       "effect": 2.3,
       "difficulty": 0.9
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1654,6 +1983,13 @@
       "attack": 2.7,
       "effect": 3.6,
       "difficulty": 2.7
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1690,6 +2026,13 @@
       "effect": 1.8,
       "difficulty": 0.9
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1724,6 +2067,13 @@
       "attack": 2.7,
       "effect": 2.3,
       "difficulty": 2.7
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1760,6 +2110,13 @@
       "effect": 1.4,
       "difficulty": 2.3
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1794,6 +2151,13 @@
       "attack": 1.4,
       "effect": 3.2,
       "difficulty": 2.3
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1830,6 +2194,13 @@
       "effect": 2.3,
       "difficulty": 0.9
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1864,6 +2235,13 @@
       "attack": 2.7,
       "effect": 0.9,
       "difficulty": 2.3
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1900,6 +2278,13 @@
       "effect": 2.7,
       "difficulty": 3.2
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -1934,6 +2319,13 @@
       "attack": 1.4,
       "effect": 3.2,
       "difficulty": 3.6
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -1970,6 +2362,13 @@
       "effect": 2.3,
       "difficulty": 2.3
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -2004,6 +2403,13 @@
       "attack": 3.6,
       "effect": 1.4,
       "difficulty": 1.4
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
@@ -2040,6 +2446,13 @@
       "effect": 2.7,
       "difficulty": 2.3
     },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
+    },
     "skill": {
       "passive": {
         "name": "xx",
@@ -2074,6 +2487,13 @@
       "attack": 4.1,
       "effect": 2.3,
       "difficulty": 4.1
+    },
+    "tips": {
+      "rune": {
+        "red": 1,
+        "violet": 1,
+        "green": 1
+      }
     },
     "skill": {
       "passive": {
