@@ -203,7 +203,6 @@
     "image":
       "images/arcana/disruption.png"
   },
-  // Level 2
   {
     "id": 13,
     "name": "Agility",
