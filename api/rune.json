@@ -392,7 +392,7 @@
   },
   {
     "id": 24,
-    "name": "Revelation",
+    "name": "Reverlation",
     "price": 200,
     "level": 2,
     "attack": false,
@@ -405,7 +405,7 @@
     "piercing": false,
     "description": "พลังเวท +1.4\nเวทแวมไพร์ +0.8%\nต้านทานเวท +1.6",
     "image":
-      "images/arcana/revelation.png"
+      "images/arcana/reverlation.png"
   },
   {
     "id": 25,
@@ -562,7 +562,7 @@
   },
   {
     "id": 34,
-    "name": "Corrosion",
+    "name": "Corrostion",
     "price": 200,
     "level": 2,
     "attack": false,
@@ -575,7 +575,7 @@
     "piercing": false,
     "description": "พลังเวท +0.9\nเจาะเกราะเวท +3.8",
     "image":
-      "images/arcana/corrosion.png"
+      "images/arcana/corrostion.png"
   },
   {
     "id": 13,
