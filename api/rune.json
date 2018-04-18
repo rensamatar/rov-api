@@ -12,7 +12,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังโจมตี +0.9",
+    "description": ["พลังโจมตี +0.9"],
     "image":
       "images/arcana/passion.png"
   },
@@ -29,7 +29,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "อัตราคริติคอล +0.5%",
+    "description": ["อัตราคริติคอล +0.5%"],
     "image":
       "images/arcana/shock.png"
   },
@@ -46,7 +46,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "พลังเวท +1.5",
+    "description": ["พลังเวท +1.5"],
     "image":
       "images/arcana/curse.png"
   },
@@ -63,7 +63,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "ความเร็วโจมตี +0.6%",
+    "description": ["ความเร็วโจมตี +0.6%"],
     "image":
       "images/arcana/gale.png"
   },
@@ -80,7 +80,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +21",
+    "description": ["พลังชีวิต +21"],
     "image":
       "images/arcana/life.png"
   },
@@ -97,7 +97,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ฟื้นฟูพลังชีวิต/5 วิ +4.2",
+    "description": ["ฟื้นฟูพลังชีวิต/5 วิ +4.2"],
     "image":
       "images/arcana/rebirth.png"
   },
@@ -114,7 +114,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ดูดเลือด +0.4%",
+    "description": ["ดูดเลือด +0.4%"],
     "image":
       "images/arcana/lifesteal.png"
   },
@@ -131,7 +131,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เวทแวมไพร์ +0.4%",
+    "description": ["เวทแวมไพร์ +0.4%"],
     "image":
       "images/arcana/absorption.png"
   },
@@ -148,7 +148,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เกราะ +2.5",
+    "description": ["เกราะ +2.5"],
     "image":
       "images/arcana/guard.png"
   },
@@ -165,7 +165,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ต้านทานเวท +2.5",
+    "description": ["ต้านทานเวท +2.5"],
     "image":
       "images/arcana/strength.png"
   },
@@ -182,7 +182,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "เจาะเกราะ +2.2",
+    "description": ["เจาะเกราะ +2.2"],
     "image":
       "images/arcana/stab.png"
   },
@@ -199,7 +199,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "เจาะเกราะเวท +2.2",
+    "description": ["เจาะเกราะเวท +2.2"],
     "image":
       "images/arcana/disruption.png"
   },
@@ -216,7 +216,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "ความเร็วโจมตี +1.2%",
+    "description": ["ความเร็วโจมตี +1.2%"],
     "image":
       "images/arcana/agility.png"
   },
@@ -233,7 +233,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังโจมตี +1.5\nพลังชีวิต +13.5",
+    "description": ["พลังโจมตี +1.5", "พลังชีวิต +13.5"],
     "image":
       "images/arcana/brute_force.png"
   },
@@ -250,7 +250,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังโจมตี +1.5\nความเร็วโจมตี +0.4%",
+    "description": ["พลังโจมตี +1.5", "ความเร็วโจมตี +0.4%"],
     "image":
       "images/arcana/master.png"
   },
@@ -267,7 +267,7 @@
     "atk_speed": true,
     "critical_rate": true,
     "piercing": false,
-    "description": "ความเร็วโจมตี +0.6%\n อัตราคริติคอล +0.3%\nความเสียหายคริติคอล +1.1%",
+    "description": ["ความเร็วโจมตี +0.6%", "อัตราคริติคอล +0.3%", "ความเสียหายคริติคอล +1.1%"],
     "image":
       "images/arcana/cyclone.png"
   },
@@ -284,7 +284,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "พลังเวท +2.5\nอัตราคริติคอล +0.3%",
+    "description": ["พลังเวท +2.5", "อัตราคริติคอล +0.3%"],
     "image":
       "images/arcana/magma.png"
   },
@@ -301,7 +301,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "พลังเวท +2.5\nเจาะเกราะเวท +1.4",
+    "description": ["พลังเวท +2.5", "เจาะเกราะเวท +1.4"],
     "image":
       "images/arcana/pestilence.png"
   },
@@ -318,7 +318,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "อัตราคริติคอล +1%",
+    "description": ["อัตราคริติคอล +1%"],
     "image":
       "images/arcana/atrocity.png"
   },
@@ -335,7 +335,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "อัตราคริติคอล +0.5%\nความเสียหายคริติคอล +2%",
+    "description": ["อัตราคริติคอล +0.5%", "ความเสียหายคริติคอล +2%"],
     "image":
       "images/arcana/mob.png"
   },
@@ -352,7 +352,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +45",
+    "description": ["พลังชีวิต +45"],
     "image":
       "images/arcana/mutation.png"
   },
@@ -369,7 +369,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +13.5\nความเร็วเคลื่อนที่ +0.7%",
+    "description": ["พลังชีวิต +13.5", "ความเร็วเคลื่อนที่ +0.7%"],
     "image":
       "images/arcana/guerrilla.png"
   },
@@ -386,7 +386,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ฟื้นฟูพลังชีวิต/5 วิ +9",
+    "description": ["ฟื้นฟูพลังชีวิต/5 วิ +9"],
     "image":
       "images/arcana/vitality.png"
   },
@@ -403,7 +403,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังเวท +1.4\nเวทแวมไพร์ +0.8%\nต้านทานเวท +1.6",
+    "description": ["พลังเวท +1.4", "เวทแวมไพร์ +0.8%", "ต้านทานเวท +1.6"],
     "image":
       "images/arcana/reverlation.png"
   },
@@ -420,7 +420,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "ความเร็วโจมตี +0.45\nดูดเลือด +0.8%",
+    "description": ["ความเร็วโจมตี +0.45", "ดูดเลือด +0.8%"],
     "image":
       "images/arcana/greed.png"
   },
@@ -437,7 +437,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังโจมตี +0.6\nพลังชีวิต +36",
+    "description": ["พลังโจมตี +0.6", "พลังชีวิต +36"],
     "image":
       "images/arcana/final_battle.png"
   },
@@ -454,7 +454,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +36\nเกราะ +1.6",
+    "description": ["พลังชีวิต +36", "เกราะ +1.6"],
     "image":
       "images/arcana/reinforce.png"
   },
@@ -471,7 +471,7 @@
     "atk_speed": true,
     "critical_rate": true,
     "piercing": false,
-    "description": "พลังโจมตี +0.4%\nอัตราคริติคอล +0.3%\nความเร็วเคลื่อนที่ +0.5%",
+    "description": ["พลังโจมตี +0.4%", "อัตราคริติคอล +0.3%", "ความเร็วเคลื่อนที่ +0.5%"],
     "image":
       "images/arcana/fury.png"
   },
@@ -488,7 +488,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เกราะ +5.4",
+    "description": ["เกราะ +5.4"],
     "image":
       "images/arcana/indomitable.png"
   },
@@ -505,7 +505,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ต้านทานเวท +5.4",
+    "description": ["ต้านทานเวท +5.4"],
     "image":
       "images/arcana/loyalty.png"
   },
@@ -522,7 +522,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "ความเร็วโจมตี +0.4%\nลดคูลดาวน์ +0.5%",
+    "description": ["ความเร็วโจมตี +0.4%", "ลดคูลดาวน์ +0.5%"],
     "image":
       "images/arcana/assault.png"
   },
@@ -539,7 +539,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ฟื้นฟูพลังชีวิต/5 วิ +4.5\nเกราะ +3.2",
+    "description": ["ฟื้นฟูพลังชีวิต/5 วิ +4.5", "เกราะ +3.2"],
     "image":
       "images/arcana/sanctuary.png"
   },
@@ -556,7 +556,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เวทแวมไพร์ +0.5%\nต้านทานเวท +3.2",
+    "description": ["เวทแวมไพร์ +0.5%", "ต้านทานเวท +3.2"],
     "image":
       "images/arcana/doctrine.png"
   },
@@ -573,7 +573,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "พลังเวท +0.9\nเจาะเกราะเวท +3.8",
+    "description": ["พลังเวท +0.9", "เจาะเกราะเวท +3.8"],
     "image":
       "images/arcana/corrostion.png"
   },
@@ -590,7 +590,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +15.7\nฟื้นฟูพลังชีวิต/5 วิ +3.1\nลดคูลดาวน์ +0.3%",
+    "description": ["พลังชีวิต +15.7", "ฟื้นฟูพลังชีวิต/5 วิ +3.1", "ลดคูลดาวน์ +0.3%"],
     "image":
       "images/arcana/potential.png"
   },
@@ -607,7 +607,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "พลังชีวิต +13.5\nเจาะเกราะ +3.8",
+    "description": ["พลังชีวิต +13.5", "เจาะเกราะ +3.8"],
     "image":
       "images/arcana/savage.png"
   },
@@ -624,7 +624,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังเวท +5.3",
+    "description": ["พลังเวท +5.3"],
     "image":
       "images/arcana/sage.png"
   },
@@ -641,7 +641,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังโจมตี +3.2",
+    "description": ["พลังโจมตี +3.2"],
     "image":
       "images/arcana/sword.png"
   },
@@ -658,7 +658,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "พลังโจมตี +2\nเจาะเกราะ +3.6",
+    "description": ["พลังโจมตี +2", "เจาะเกราะ +3.6"],
     "image":
       "images/arcana/onslaught.png"
   },
@@ -675,7 +675,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังโจมตี +2.5\nดูดเลือด +0.5%",
+    "description": ["พลังโจมตี +2.5", "ดูดเลือด +0.5%"],
     "image":
       "images/arcana/bloodlust.png"
   },
@@ -692,7 +692,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "อัตราคริติคอล +0.7%\nความเสียหายคริติคอล +3.6%",
+    "description":[ "อัตราคริติคอล +0.7%", "ความเสียหายคริติคอล +3.6%"],
     "image":
       "images/arcana/rampage.png"
   },
@@ -709,7 +709,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "ความเร็วโจมตี +1%\nพลังชีวิต +33.7\nเกราะ +2.3",
+    "description": ["ความเร็วโจมตี +1%", "พลังชีวิต +33.7", "เกราะ +2.3"],
     "image":
       "images/arcana/golden_body.png"
   },
@@ -726,7 +726,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "พลังเวท +4.2\nเจาะเกราะเวท +2.4",
+    "description": ["พลังเวท +4.2", "เจาะเกราะเวท +2.4"],
     "image":
       "images/arcana/desolate.png"
   },
@@ -743,7 +743,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังเวท +4.2\nความเร็วโจมตี +0.6%",
+    "description": ["พลังเวท +4.2", "ความเร็วโจมตี +0.6%"],
     "image":
       "images/arcana/scepter.png"
   },
@@ -760,7 +760,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "อัตราคริติคอล +1.6%",
+    "description": ["อัตราคริติคอล +1.6%"],
     "image":
       "images/arcana/rage.png"
   },
@@ -777,7 +777,7 @@
     "atk_speed": true,
     "critical_rate": true,
     "piercing": false,
-    "description": "ความเร็วโจมตี +1.6%\nอัตราคริติคอล +0.5%",
+    "description": ["ความเร็วโจมตี +1.6%", "อัตราคริติคอล +0.5%"],
     "image":
       "images/arcana/awake.png"
   },
@@ -794,7 +794,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +75",
+    "description": ["พลังชีวิต +75"],
     "image":
       "images/arcana/colossus.png"
   },
@@ -811,7 +811,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เวทแวมไพร์ +1.6%",
+    "description": ["เวทแวมไพร์ +1.6%"],
     "image":
       "images/arcana/pray.png"
   },
@@ -828,7 +828,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ดูดเลือด +1.6%",
+    "description": ["ดูดเลือด +1.6%"],
     "image":
       "images/arcana/essence_reaver.png"
   },
@@ -845,7 +845,7 @@
     "atk_speed": false,
     "critical_rate": true,
     "piercing": false,
-    "description": "อัตราคริติคอล +0.5%\nพลังชีวิต +60",
+    "description": ["อัตราคริติคอล +0.5%", "พลังชีวิต +60"],
     "image":
       "images/arcana/throne.png"
   },
@@ -862,7 +862,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +60\nฟื้นฟูพลังชีวิต/5 วิ +4.5",
+    "description": ["พลังชีวิต +60", "ฟื้นฟูพลังชีวิต/5 วิ +4.5"],
     "image":
       "images/arcana/immortal.png"
   },
@@ -879,7 +879,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ดูดเลือด +1%\nต้านทานเวท +4.1",
+    "description": ["ดูดเลือด +1%", "ต้านทานเวท +4.1"],
     "image":
       "images/arcana/feast.png"
   },
@@ -896,7 +896,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังเวท +2.4\nเวทแวมไพร์ +1%",
+    "description": ["พลังเวท +2.4", "เวทแวมไพร์ +1%"],
     "image":
       "images/arcana/blood_magic.png"
   },
@@ -913,7 +913,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +45\nฟื้นฟูพลังชีวิต/5 วิ +5.2\nความเร็วเคลื่อนที่ +0.4%",
+    "description": ["พลังชีวิต +45", "ฟื้นฟูพลังชีวิต/5 วิ +5.2", "ความเร็วเคลื่อนที่ +0.4%"],
     "image":
       "images/arcana/protect.png"
   },
@@ -930,7 +930,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังโจมตี +1.6\nความเร็วเคลื่อนที่ +1%",
+    "description": ["พลังโจมตี +1.6", "ความเร็วเคลื่อนที่ +1%"],
     "image":
       "images/arcana/assassinate.png"
   },
@@ -947,7 +947,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": false,
-    "description": "ความเร็วโจมตี +1%\nความเร็วเคลื่อนที่ +1%",
+    "description": ["ความเร็วโจมตี +1%", "ความเร็วเคลื่อนที่ +1%"],
     "image":
       "images/arcana/spirit.png"
   },
@@ -964,7 +964,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เกราะ +9",
+    "description": ["เกราะ +9"],
     "image":
       "images/arcana/great_wall.png"
   },
@@ -981,7 +981,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เกราะ +5\nต้านทานเวท +5",
+    "description": ["เกราะ +5", "ต้านทานเวท +5"],
     "image":
       "images/arcana/herculean_power.png"
   },
@@ -998,7 +998,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังชีวิต +37.5\nลดคูลดาวน์ +0.6%",
+    "description": ["พลังชีวิต +37.5", "ลดคูลดาวน์ +0.6%"],
     "image":
       "images/arcana/prowess.png"
   },
@@ -1015,7 +1015,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ต้านทานเวท +9",
+    "description": ["ต้านทานเวท +9"],
     "image":
       "images/arcana/authority.png"
   },
@@ -1032,7 +1032,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "พลังเวท +2.4\nลดคูลดาวน์ +0.7%",
+    "description": ["พลังเวท +2.4", "ลดคูลดาวน์ +0.7%"],
     "image":
       "images/arcana/secret_intantation.png"
   },
@@ -1049,7 +1049,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": true,
-    "description": "พลังโจมตี +0.9\nเจาะเกราะ +6.4",
+    "description": ["พลังโจมตี +0.9", "เจาะเกราะ +6.4"],
     "image":
       "images/arcana/dragon_s_claw.png"
   },
@@ -1066,7 +1066,7 @@
     "atk_speed": true,
     "critical_rate": false,
     "piercing": true,
-    "description": "ความเร็วโจมตี +0.6%\nเจาะเกราะเวท +6.4",
+    "description": ["ความเร็วโจมตี +0.6%", "เจาะเกราะเวท +6.4"],
     "image":
       "images/arcana/stain.png"
   },
@@ -1083,7 +1083,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "ลดคูลดาวน์ +1%",
+    "description": ["ลดคูลดาวน์ +1%"],
     "image":
       "images/arcana/purity.png"
   },
@@ -1100,7 +1100,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เวทแวมไพร์ +0.7%\nเกราะ +5.9",
+    "description": ["เวทแวมไพร์ +0.7%", "เกราะ +5.9"],
     "image":
       "images/arcana/magic_heart.png"
   },
@@ -1117,7 +1117,7 @@
     "atk_speed": false,
     "critical_rate": false,
     "piercing": false,
-    "description": "เกราะ +2.7\nต้านทานเวท +2.7\nลดคูลดาวน์ +0.6%",
+    "description": ["เกราะ +2.7", "ต้านทานเวท +2.7", "ลดคูลดาวน์ +0.6%"],
     "image":
       "images/arcana/holy_light.png"
   }
