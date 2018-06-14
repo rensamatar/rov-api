@@ -110,5 +110,173 @@
 		"type": "Jungling",
 		"image": "images/item/jungling/1513.png",
 		"description": ["+15 พลังโจมตี", "+20% ความเร็วโจมตี +10% ดูดเลือด", "(ได้รับสกิล Frostbite)", "สกิลติดตัว - Firestorm: การโจมตีปกติจะทำให้เป้าหมายติดขั้นสัญลักษณ์ โดยแต่ละขั้นจะสร้างความเสียหายเวทเพิ่ม(18 + Lv ฮีโร่ x 0.5) หน่วย (ระยะไกลจะสร้างเพียง 75%) สูงสุด 6 ขั้น", "สกิลติดตัว – Hunting: เพิ่มความเสียหายต่อมอนสเตอร์ป่า +30% และได้รับ XP เมื่อสังหารมอนสเตอร์ป่า +30%", "สกิลติดตัว – Stalk: การสังหารมอนสเตอร์ป่าจะทำให้ฮีโร่ได้รับความเร็วโจมตี +3% (สูงสุด 15 ครั้ง)"]
-	}
+	},
+	{
+		"name": "Short Sword",
+		"price": 250,
+		"type": "Attack",
+		"image": "images/item/attack/1111.png",
+		"description": ["+20 พลังโจมตี"]
+	},
+	{
+		"name": "Dagger",
+		"price": 290,
+		"type": "Attack",
+		"image": "images/item/attack/1112.png",
+		"description": ["+10% ความเร็วโจมตี"]
+	},
+	{
+		"name": "Gloves",
+		"price": 490,
+		"type": "Attack",
+		"image": "images/item/attack/1113.png",
+		"description": ["+12% อัตราคริติคัล"]
+	},
+	{
+		"name": "Bloodied Club",
+		"price": 410,
+		"type": "Attack",
+		"image": "images/item/attack/1114.png",
+		"description": ["+10 พลังโจมตี", "+8% ดูดเลือด"]
+	},
+	{
+		"name": "Chain Hammer",
+		"price": 450,
+		"type": "Attack",
+		"image": "images/item/attack/1115.png",
+		"description": ["+40 พลังโจมตี"]
+	},
+	{
+		"name": "Cleaving Claymore",
+		"price": 910,
+		"type": "Attack",
+		"image": "images/item/attack/1121.png",
+		"description": ["+80 พลังโจมตี"]
+	},
+	{
+		"name": "Arcane Hammer",
+		"price": 740,
+		"type": "Attack",
+		"image": "images/item/attack/1122.png",
+		"description": ["+25 พลังโจมตี", "+15% ความเร็วโจมตี", "สกิลติดตัว - Speed Up: เมื่อทำการโจมตีปกติ รับความเร็วเคลื่อนที่ +10%"]
+	},
+	{
+		"name": "Tempest Blades",
+		"price": 780,
+		"type": "Attack",
+		"image": "images/item/attack/1123.png",
+		"description": ["+25% ความเร็วโจมตี", "+5% ความเร็วเคลื่อนที่"]
+	},
+	{
+		"name": "Astral Spear",
+		"price": 830,
+		"type": "Attack",
+		"image": "images/item/attack/1124.png",
+		"description": ["+50 พลังโจมตี", "สกิลติดตัว: เจาะเกราะ +60"]
+	},
+	{
+		"name": "Shuriken",
+		"price": 890,
+		"type": "Attack",
+		"image": "images/item/attack/1129.png",
+		"description": ["+25% ความเร็วโจมตี", "สกิลติดตัว - Heel: การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 20-34 ขึ้นอยู่กับเลเวลของฮีโร่"]
+	},
+	{
+		"name": "Uriel's Brand",
+		"price": 2020,
+		"type": "Attack",
+		"image": "images/item/attack/1125.png",
+		"description": ["+100 พลังโจมตี", "+600 พลังชีวิต", "สกิลติดตัว - Savior's Edge: เมื่อพลังชีวิตลดลงต่ำกว่า 40% ฮีโร่จะได้รับโล่ต้านทานเวทพร้อมเกราะเวท +200"]
+	},
+	{
+		"name": "Curse of Death",
+		"price": 1800,
+		"type": "Attack",
+		"image": "images/item/attack/000.png",
+		"description": ["+100 พลังโจมตี", "+10% ดูดเลือด", "สกิลติดตัว - Shatter: ลดการฟื้นฟูของเป้าหมายลง 50% เป็นเวลา 1.5 วิ(สูงสุด 3 วิ)"]
+	},
+	{
+		"name": "Death Sickle",
+		"price": 2000,
+		"type": "Attack",
+		"image": "images/item/attack/000.png",
+		"description": ["+60 พลังโจมตี", "+5% ลดคูลดาวน์", "สกิลติดตัว - Divine Intervention: อมตะเมื่อ HP ต่ำและวิ่งเร็วขึ้น 20% เป็นเวลา 1 วิ CD 90 วิ"]
+	},
+	{
+		"name": "Spear of Longinus",
+		"price": 2060,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": ["+80 พลังโจมตี", "+15% ลดคูลดาวน์", "+150 เกราะ", "สกิลติดตัว -  Shatter: เมื่อโจมตีเป้าหมาย จะลดเกราะ 50 หน่วย(สูงสุด 5 ครั้ง) เป็นเวลา 5 วิ"]
+	},
+	{
+		"name": "Fafnir's Talon",
+		"price": 2040,
+		"type": "Attack",
+		"image": "images/item/attack/1126.png",
+		"description": ["+60 พลังโจมตี", "+30% ความเร็วโจมตี", "+10% ดูดเลือด", "สกิลติดตัว - Dragon's Breath: เพิ่มพลังโจมตีเท่ากับ 8% ของพลังชีวิตศัตรูเมื่อโจมตีธรรมดา"]
+	},
+	{
+		"name": "Claves Sancti",
+		"price": 2000,
+		"type": "Attack",
+		"image": "images/item/attack/1133.png",
+		"description": ["+100 พลังโจมตี", "สกิลติดตัว - Gift of the Swift: ความเร็วเคลื่อนที่เพิ่มขึ้น (3*LV อัพ) เป็นเวลา 1.5 วิ (มีผลเฉพาะฮีโร่ระยะไกล)", "สกิลติดตัว: โอกาสคริติคอล +30%"]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
+	{
+		"name": "XXX",
+		"price": 000,
+		"type": "Attack",
+		"image": "images/item/attack/1137.png",
+		"description": [""]
+	},
 ]
