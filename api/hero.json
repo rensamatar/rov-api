@@ -11,9 +11,23 @@
     	"difficulty": 0.9
     },
     "rune": {
-      "title": "XXX",
-      "items": [42, 55, 58]
+      "title": "แทงค์",
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "แทงค์",
+        "ids": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "title": "ฟาร์มป่า",
+        "ids": [1, 2, 3, 4, 5, 6]
+      },
+      {
+        "title": "แทงค์กึ่งดาเมจ",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "Fighting Spirit",
@@ -51,8 +65,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "Royal Power",
@@ -90,8 +110,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "Sweet Revenge",
@@ -129,8 +155,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -168,8 +200,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -207,8 +245,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -246,8 +290,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -285,8 +335,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -324,8 +380,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -363,8 +425,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -402,8 +470,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -441,8 +515,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -480,8 +560,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -519,8 +605,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -558,8 +650,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -597,8 +695,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -636,8 +740,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -675,8 +785,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -714,8 +830,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -753,8 +875,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -792,8 +920,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -831,8 +965,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -870,8 +1010,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -909,8 +1055,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -948,8 +1100,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -987,8 +1145,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1026,8 +1190,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1065,8 +1235,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1104,8 +1280,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1143,8 +1325,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1182,8 +1370,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1221,8 +1415,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1260,8 +1460,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1299,8 +1505,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1338,8 +1550,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1377,8 +1595,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1416,8 +1640,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1455,8 +1685,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1494,8 +1730,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1533,8 +1775,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1572,8 +1820,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1611,8 +1865,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1650,8 +1910,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1689,8 +1955,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1728,8 +2000,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1767,8 +2045,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1806,8 +2090,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1845,8 +2135,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1884,8 +2180,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1923,8 +2225,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -1962,8 +2270,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2001,8 +2315,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2040,8 +2360,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2079,8 +2405,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2118,8 +2450,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2157,8 +2495,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2196,8 +2540,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2235,8 +2585,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2274,8 +2630,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
@@ -2313,8 +2675,14 @@
     },
     "rune": {
       "title": "XXX",
-      "items": [42, 55, 58]
+      "ids": [42, 55, 58]
     },
+    "items": [
+      {
+        "title": "Item group tile",
+        "ids": [1, 2, 3, 4, 5, 6]
+      }
+    ],
     "skill": {
       "passive": {
         "name": "xx",
